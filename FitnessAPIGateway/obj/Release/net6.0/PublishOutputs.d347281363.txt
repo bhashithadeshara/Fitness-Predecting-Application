@@ -1,0 +1,16 @@
+D:\University\EnterpriseApplication\CourseWork2\Submission\Azure\Project\FitnessApplicationWorkOutCrudWebAPI\FitnessAPIGateway\obj\Release\net6.0\PubTmp\Out\FitnessAPIGateway.exe
+D:\University\EnterpriseApplication\CourseWork2\Submission\Azure\Project\FitnessApplicationWorkOutCrudWebAPI\FitnessAPIGateway\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\University\EnterpriseApplication\CourseWork2\Submission\Azure\Project\FitnessApplicationWorkOutCrudWebAPI\FitnessAPIGateway\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\University\EnterpriseApplication\CourseWork2\Submission\Azure\Project\FitnessApplicationWorkOutCrudWebAPI\FitnessAPIGateway\obj\Release\net6.0\PubTmp\Out\Ocelot.json
+D:\University\EnterpriseApplication\CourseWork2\Submission\Azure\Project\FitnessApplicationWorkOutCrudWebAPI\FitnessAPIGateway\obj\Release\net6.0\PubTmp\Out\FitnessAPIGateway.dll
+D:\University\EnterpriseApplication\CourseWork2\Submission\Azure\Project\FitnessApplicationWorkOutCrudWebAPI\FitnessAPIGateway\obj\Release\net6.0\PubTmp\Out\FitnessAPIGateway.deps.json
+D:\University\EnterpriseApplication\CourseWork2\Submission\Azure\Project\FitnessApplicationWorkOutCrudWebAPI\FitnessAPIGateway\obj\Release\net6.0\PubTmp\Out\FitnessAPIGateway.runtimeconfig.json
+D:\University\EnterpriseApplication\CourseWork2\Submission\Azure\Project\FitnessApplicationWorkOutCrudWebAPI\FitnessAPIGateway\obj\Release\net6.0\PubTmp\Out\FitnessAPIGateway.pdb
+D:\University\EnterpriseApplication\CourseWork2\Submission\Azure\Project\FitnessApplicationWorkOutCrudWebAPI\FitnessAPIGateway\obj\Release\net6.0\PubTmp\Out\FluentValidation.dll
+D:\University\EnterpriseApplication\CourseWork2\Submission\Azure\Project\FitnessApplicationWorkOutCrudWebAPI\FitnessAPIGateway\obj\Release\net6.0\PubTmp\Out\Microsoft.AspNetCore.JsonPatch.dll
+D:\University\EnterpriseApplication\CourseWork2\Submission\Azure\Project\FitnessApplicationWorkOutCrudWebAPI\FitnessAPIGateway\obj\Release\net6.0\PubTmp\Out\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\University\EnterpriseApplication\CourseWork2\Submission\Azure\Project\FitnessApplicationWorkOutCrudWebAPI\FitnessAPIGateway\obj\Release\net6.0\PubTmp\Out\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\University\EnterpriseApplication\CourseWork2\Submission\Azure\Project\FitnessApplicationWorkOutCrudWebAPI\FitnessAPIGateway\obj\Release\net6.0\PubTmp\Out\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\University\EnterpriseApplication\CourseWork2\Submission\Azure\Project\FitnessApplicationWorkOutCrudWebAPI\FitnessAPIGateway\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+D:\University\EnterpriseApplication\CourseWork2\Submission\Azure\Project\FitnessApplicationWorkOutCrudWebAPI\FitnessAPIGateway\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.Bson.dll
+D:\University\EnterpriseApplication\CourseWork2\Submission\Azure\Project\FitnessApplicationWorkOutCrudWebAPI\FitnessAPIGateway\obj\Release\net6.0\PubTmp\Out\Ocelot.dll

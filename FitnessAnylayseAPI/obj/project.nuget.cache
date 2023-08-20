@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OCfMFtSURLJr5O8/COErg9dufM7aQoRLsZDrdHs7/pHns0kKtqA6Q6n53eb5Zg7/Oa5kQqIqfPeY4l4WpN1r5Q==",
+  "success": true,
+  "projectFilePath": "D:\\University\\EnterpriseApplication\\CourseWork2\\Submission\\Azure\\Project\\FitnessApplicationWorkOutCrudWebAPI\\FitnessAnylayseAPI\\FitnessAnylayseAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bhashitha_106041\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

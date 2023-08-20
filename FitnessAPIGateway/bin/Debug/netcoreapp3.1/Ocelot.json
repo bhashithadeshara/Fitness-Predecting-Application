@@ -1,0 +1,132 @@
+{
+    "ReRoutes": [
+        {
+            //create user
+            "DownstreamPathTemplate": "/api/user",
+            "DownstreamScheme": "https",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 44304
+                }
+
+            ],
+            "UpstreamPathTemplate": "/apigateway/userService",
+            "UpstreamHttpMethod": [ "GET", "POST", "PUT", "DELETE" ]
+        },
+        {
+            //user login
+            "DownstreamPathTemplate": "/api/user/login",
+            "DownstreamScheme": "https",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 44304
+                }
+
+            ],
+            "UpstreamPathTemplate": "/apigateway/userService/login",
+            "UpstreamHttpMethod": [ "GET", "POST", "PUT", "DELETE" ]
+        },        
+        {
+            //create work out detail by user id
+            "DownstreamPathTemplate": "/api/workoutdetail",
+            "DownstreamScheme": "https",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 44304
+                }
+
+            ],
+            "UpstreamPathTemplate": "/apigateway/workoutDetailService",
+            "UpstreamHttpMethod": [ "GET", "POST", "PUT", "DELETE" ]
+        },
+        {
+            //check work out detail are added to same day by user mail
+            "DownstreamPathTemplate": "/api/workoutdetail/checkWorkOutForDay",
+            "DownstreamScheme": "https",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 44304
+                }
+
+            ],
+            "UpstreamPathTemplate": "/apigateway/workoutDetailService/checkWorkOutForDay",
+            "UpstreamHttpMethod": [ "POST" ]
+        },
+        {
+            //Get workout details by user mail
+            "DownstreamPathTemplate": "/api/workoutdetail/{email}",
+            "DownstreamScheme": "https",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 44304
+                }
+
+            ],
+            "UpstreamPathTemplate": "/apigateway/workoutDetailService/{email}",
+            "UpstreamHttpMethod": [ "GET" ]
+        },
+        {
+            //Delete work details by work out detail id
+            "DownstreamPathTemplate": "/api/workoutdetail/{id}",
+            "DownstreamScheme": "https",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 44304
+                }
+
+            ],
+            "UpstreamPathTemplate": "/apigateway/workoutDetailService/{id}",
+            "UpstreamHttpMethod": [ "Delete" ]
+        },
+        {
+            //Get work details by date range and email
+            "DownstreamPathTemplate": "/api/workoutdetail/daterange",
+            "DownstreamScheme": "https",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 44304
+                }
+
+            ],
+            "UpstreamPathTemplate": "/apigateway/workoutDetailService/daterange",
+            "UpstreamHttpMethod": [ "Post" ]
+        },
+        {
+            //Delete all work out details by email
+            "DownstreamPathTemplate": "/api/workoutdetail/delete/{email}",
+            "DownstreamScheme": "https",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 44304
+                }
+
+            ],
+            "UpstreamPathTemplate": "/apigateway/workoutDetailService/delete/{email}",
+            "UpstreamHttpMethod": [ "Delete" ]
+        },
+        {
+            //Get Analyse Data
+            "DownstreamPathTemplate": "/api/analysefitnessdetails/email/{email}",
+            "DownstreamScheme": "https",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 44395
+                }
+
+            ],
+            "UpstreamPathTemplate": "/apigateway/analysefitnessdetailService/email/{email}",
+            "UpstreamHttpMethod": [ "Get" ]
+        }
+
+
+    ]
+}

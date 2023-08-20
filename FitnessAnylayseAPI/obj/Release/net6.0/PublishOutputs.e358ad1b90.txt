@@ -1,0 +1,8 @@
+D:\University\EnterpriseApplication\CourseWork2\Submission\Azure\Project\FitnessApplicationWorkOutCrudWebAPI\FitnessAnylayseAPI\obj\Release\net6.0\PubTmp\Out\FitnessAnylayseAPI.exe
+D:\University\EnterpriseApplication\CourseWork2\Submission\Azure\Project\FitnessApplicationWorkOutCrudWebAPI\FitnessAnylayseAPI\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\University\EnterpriseApplication\CourseWork2\Submission\Azure\Project\FitnessApplicationWorkOutCrudWebAPI\FitnessAnylayseAPI\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\University\EnterpriseApplication\CourseWork2\Submission\Azure\Project\FitnessApplicationWorkOutCrudWebAPI\FitnessAnylayseAPI\obj\Release\net6.0\PubTmp\Out\FitnessAnylayseAPI.dll
+D:\University\EnterpriseApplication\CourseWork2\Submission\Azure\Project\FitnessApplicationWorkOutCrudWebAPI\FitnessAnylayseAPI\obj\Release\net6.0\PubTmp\Out\FitnessAnylayseAPI.deps.json
+D:\University\EnterpriseApplication\CourseWork2\Submission\Azure\Project\FitnessApplicationWorkOutCrudWebAPI\FitnessAnylayseAPI\obj\Release\net6.0\PubTmp\Out\FitnessAnylayseAPI.runtimeconfig.json
+D:\University\EnterpriseApplication\CourseWork2\Submission\Azure\Project\FitnessApplicationWorkOutCrudWebAPI\FitnessAnylayseAPI\obj\Release\net6.0\PubTmp\Out\FitnessAnylayseAPI.pdb
+D:\University\EnterpriseApplication\CourseWork2\Submission\Azure\Project\FitnessApplicationWorkOutCrudWebAPI\FitnessAnylayseAPI\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
